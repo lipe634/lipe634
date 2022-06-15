@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lipe634.
+-:+1: Meu email de contato é ribeiro.souza.felipe@escola.pr.gov.br.
+- 👀 I’m interested in  aprender a programar novas linguagens.
+- 🌱 Eu estou  aprend  a programar recenteme a  linguagem  de JavaScriptch e Scratch.
